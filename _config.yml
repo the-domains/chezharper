@@ -1,7 +1,7 @@
 name: chezHarper
 favicon: null
-layout_spectrum: 0.2609519229736179
-typography_spectrum: 0.774116801796481
+layout_spectrum: 0
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
