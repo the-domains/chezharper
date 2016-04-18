@@ -1,6 +1,6 @@
 name: chezHarper
 favicon: null
-layout_spectrum: 0.23836
+layout_spectrum: 0.06206
 typography_spectrum: 0
 title: A Show-and-Tell Experiment
 cta:
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.125
-  lightness: 0.9510131594724953
-  saturation: 0.6727752778679132
-  rhythmicContrast: 0.39973299647681415
+  brandStrength: 0.0625
+  lightness: 0.75
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
