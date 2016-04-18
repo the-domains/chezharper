@@ -1,6 +1,6 @@
 name: chezHarper
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.23836
 typography_spectrum: 0
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.2550060080830008
+  brandStrength: 0.125
   lightness: 0.9510131594724953
   saturation: 0.6727752778679132
   rhythmicContrast: 0.39973299647681415
