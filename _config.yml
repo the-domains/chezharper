@@ -2,6 +2,7 @@ name: chezHarper
 favicon: null
 layout_spectrum: 0.23836
 typography_spectrum: 0
+title: A Show-and-Tell Experiment
 cta:
   domain: null
   bucket: null
